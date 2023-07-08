@@ -3,6 +3,6 @@
 <div class="test">test</div>
 <style lang='scss'>
 .test{
-  color:red;
+  color:blue;
 }
 </style>
