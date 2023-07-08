@@ -13,7 +13,7 @@
     "prettier": "^2.4.1",
     "prettier-plugin-svelte": "^2.4.0",
     "svelte": "^3.42.6",
-    "scss":""
+    "scss": "^0.2.4"
   },
   "type": "module"
 }
